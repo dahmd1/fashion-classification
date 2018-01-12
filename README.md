@@ -25,10 +25,11 @@ Implementation of several neural networks models (MLP and CNN).
 
 ## Benchmark
 
-| Model | Accuracy | Average inference time (in seconds) |
-| --- | --- |
-| MLP : 3 fully connected layers, 669 K parameters | 0.899 | 0.595 |
-| CNN : 4 convolutional layers,190K parameters | 0.9183 | 0.022 |
+| Model  | Accuracy | Average inference time |
+| ------ | -------- | ---------------------- |
+|  MLP   |   0.899  |         0.595 s        |  
+|  CNN   |  0.9183  |         0.022 s        |
+
 
 ## Acknowledgments
  The code is based on some prior work including :
